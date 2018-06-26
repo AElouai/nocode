@@ -1,3 +1,3 @@
-WORKDIR nothings
+WORKDIR /dev/null
 
 FROM scratch
